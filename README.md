@@ -2,6 +2,7 @@
 
 technology renaissance man                  
 cs @ university of east anglia     
+i code in ts and rust. ex php hater. c++ slanderer.
 
 building:                
 - Architecture Is All You Need @ **Neat** https://neat.is/
